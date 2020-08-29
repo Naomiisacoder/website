@@ -1,0 +1,55 @@
+/*h1{
+     color: red; border: 5px solid; border-color: seagreen;
+}
+.image-ronde{
+    border-radius:100%;
+}
+#table{
+color: seagreen;border: 1px solid black;
+
+}
+body{
+    text-align:center;
+}
+.carousel slide{
+
+}
+
+#slate{
+ height:500px;width: 700px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    ;font-size:30px;font-weight: bold;text-align: center;
+}
+
+.frame{
+    border: 5px solid black;height:150px;width:70px;border-radius:80%;margin-top:5px;margin-left: 300px; margin-top: 30px;
+}
+.image{
+    size:10px;height:150px;width:100px;border-radius:100%;
+} 
+.border{border:5px solid black; width:600px; font-size:25px;
+    font-style: italic; font-family: cursive;margin-top: 55px;
+
+}
+.btn{
+
+    margin-top: 35px;
+}*/
+.card{
+    display: inline-block;
+}
+.image-center{
+    text-align:center;
+}
+.image{
+    width:200px;
+    height:200x;
+    border-radius: 100%;
+    
+}
+.nom{
+    text-align: center;font-weight:bold;
+}
+.description{
+    text-align: center;
+}
