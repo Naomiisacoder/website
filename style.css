@@ -34,10 +34,9 @@ body{
 .btn{
 
     margin-top: 35px;
-}*/
-.card{
-    display: inline-block;
 }
+.card{margin-top: 20px;}
+*/
 .image-center{
     text-align:center;
 }
@@ -53,3 +52,4 @@ body{
 .description{
     text-align: center;
 }
+.btn btn-success{margin-left: 100px;}
